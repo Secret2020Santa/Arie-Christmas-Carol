@@ -1,6 +1,6 @@
 # Arie's Christmas Carol
-Dear Arie, please download the python script from this repository to obtain your trials.
-Also download the folders 'Past' and 'Future'.
+Dear Arie, please download the python script 'Arie-Christmas-Carol.py' from this repository to obtain your trials.
+Also download the folders 'Past' and 'Future' and add them to the same directory as the python script.
 
 # Necessary Modules
 Ensure you have the following modules installed:
