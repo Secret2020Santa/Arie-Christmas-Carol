@@ -19,3 +19,9 @@ Next, launch this program from your command repository.
   3. Enter 'python Arie-Christmas-Carol.py' in the command line
   4. If it throws an error, check if the abovementioned packages are installed. If not try installing them again from the directory you are currently in.
   5. Enjoy the ride.
+
+# Final words
+Two things to mention:
+- Share your screen when you are running the program.
+- This program was not extensively tested, but test up to its purpose. It should work, but please do not start smashing keys. All required inputs (mousclick, enter press, keyboard keys) should be clear.
+- There is an amazing sound track, which adds a lot of christmas cheer to the program. PLease turn your sound up and let us all enjoy the christmas spirit.
