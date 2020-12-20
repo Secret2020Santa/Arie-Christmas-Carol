@@ -8,7 +8,7 @@ pygame (1.9.6)
 
   Type 'pip install pygame' in the command prompt
   
-pygame=menu (3.3.2)
+pygame-menu (3.3.2)
 
 Type 'pip install pygame_menu' in the command prompt
 
